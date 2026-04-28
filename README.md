@@ -1,5 +1,6 @@
 # teaching
-Portfolio of activities and materials I have developed for classes
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iDpxfCQkqZg?si=XgN0lq0QoyWXAUwx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+These materials were developed by me for a teaching class. 
+Syllabus and activities were created with the intention of providing an ideal curriculum for basic microbiology.
+This material was NOT applied to an actual undergraduate course.
 
-
+About me video: https://youtu.be/iDpxfCQkqZg?si=4pvgLF4nBz42lJlW
